@@ -1,0 +1,52 @@
+# ===============================
+# Gradle
+# ===============================
+.gradle/
+build/
+
+# Ignore Gradle wrapper JAR (optional – keep if you want wrapper versioned)
+# gradle/wrapper/gradle-wrapper.jar
+
+# ===============================
+# IDE - IntelliJ
+# ===============================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# ===============================
+# Eclipse
+# ===============================
+.project
+.classpath
+.settings/
+
+# ===============================
+# VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Temporary files
+# ===============================
+*.tmp
+*.swp
+
+gradle/
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
